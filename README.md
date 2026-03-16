@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavoulyssea
 - 👀 I’m interested in software development, linux, internet routing, and Biking!
-- 🌱 I’m currently dedicated to Magento 2 development
+- 🌱 I’m currently dedicated to AI Agents development
 - 📫 You can reach me at gustavo.ulyssea@gmail.com and gustavo@gum.net.br
 
 <!---
